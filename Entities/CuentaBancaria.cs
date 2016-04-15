@@ -1,0 +1,6 @@
+namespace ConsoleApplication
+{
+    class CuentaBancaria
+    {
+    }
+}
